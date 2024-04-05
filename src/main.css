@@ -1,0 +1,50 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.IconsNavBar {
+  width: 28px;
+  height: 30px;
+}
+
+.containerButtons {
+  width: 200px;
+  display: flex;
+  gap: 15px;
+}
+
+.containerBrand {
+  width: 200px;
+  display: flex;
+  gap: 10px;
+}
+
+header {
+  margin: 25px 25px 55px 25px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: rgb(109, 18, 10);
+}
+
+.cardProduct {
+  margin: 30px;
+}
+
+.cardImg {
+  width: 465px;
+  height: 350px;
+  align-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formInputs {
+  width: 500px;
+  margin: 15px;
+  font-size: 20px;
+}
